@@ -1,7 +1,8 @@
 - 👋 
-```bash 
+    ```bash 
     Hello World ! 
-```, 
+    ```
+, 
     I’m Hao (Haw)
 - 👀 I’m interested in design, coding, ...
 - 🌱 I’m currently learning React Native, NodeJS,... 
